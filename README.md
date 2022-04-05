@@ -20,8 +20,8 @@
 
 -  The target variable for the model was the "IS_SUCCESSFUL" category.
 
-![Screen Shot 2021-10-28 at 11 56 57 AM](https://user-images.githubusercontent.com/691355/139318354-ee7f6894-0ee1-4511-b134-44125cc8f09c.png)
-
+<p align = "left">
+<img src ="https://github.com/GDIAZ1106/-Neural_Network_Charity_Analysis/blob/a449a51afd46925cc24caa4789686f179c2289ee/Resources/Screenshot%201.png?raw=true"/>
 
 ### What variable(s) are considered to be the features for your model?
 
@@ -32,7 +32,8 @@
 
 -  For this model we removed the EIN and NAME columns.
 
-![Screen Shot 2021-10-28 at 12 02 21 PM](https://user-images.githubusercontent.com/691355/139319090-7a64d974-5333-4494-a0b0-b939621a90a0.png)
+<p align = "left">
+<img src ="https://github.com/GDIAZ1106/-Neural_Network_Charity_Analysis/blob/a449a51afd46925cc24caa4789686f179c2289ee/Resources/Screenshot%202.png?raw=true"/>
 
 
 ## Compiling, Training, and Evaluating the Model
@@ -41,14 +42,15 @@
 
 -  There are two hidden node layers with 80 input//neurons in the first layer with the second smaller layer containing 30 input/neurons.  The neural network model contains 2 hidden layers and an output layer each with activation functions: "relu" / "relu" and "sigmoid".
 
-![Screen Shot 2021-10-28 at 1 08 33 PM](https://user-images.githubusercontent.com/691355/139328011-7fa9cf43-95a0-47b4-9800-35f32fa09744.png)
+<p align = "left">
+<img src ="https://github.com/GDIAZ1106/-Neural_Network_Charity_Analysis/blob/a449a51afd46925cc24caa4789686f179c2289ee/Resources/Screenshot%203.png?raw=true"/>
 
 ### Were you able to achieve the target model performance?
 
 -  The original models performance fell short of the 75% target.  The accuracy recorded was 72.5% with a loss of 55.9%.
 
-![Screen Shot 2021-10-28 at 1 11 20 PM](https://user-images.githubusercontent.com/691355/139328371-54a6860f-40d9-4edd-bf4b-3d49ee0e5aa8.png)
-
+<p align = "left">
+<img src ="https://github.com/GDIAZ1106/-Neural_Network_Charity_Analysis/blob/a449a51afd46925cc24caa4789686f179c2289ee/Resources/Screenshot%204.png?raw=true"/>
 
 ### What steps did you take to try and increase model performance?
 
